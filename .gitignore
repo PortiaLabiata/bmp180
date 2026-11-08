@@ -1,0 +1,4 @@
+*.o
+bmp180
+compile_commands.json
+mosq.conf
